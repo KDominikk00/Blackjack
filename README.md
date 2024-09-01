@@ -1,6 +1,6 @@
 ![Blackjack](https://i.imgur.com/610hxEW.png)
 
-Welcome to the Blackjack Game! This is a simple, text-based implementation of the classic casino card game Blackjack, designed to be played in your terminal or command prompt. 
+Welcome to the Blackjack Game! This is a simple, text-based Java implementation of the classic casino card game Blackjack, designed to be played in your terminal or command prompt. 
 
 ## Overview
 
